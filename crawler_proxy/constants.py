@@ -1,0 +1,7 @@
+# coding=utf-8
+
+MAXSIZE = 10
+
+MAX_CRAWL_DEPTH = 3
+CRAWL_INVERTAL = 60
+PROXY_EXPIRE_TIME = 600  # 600 seconds
